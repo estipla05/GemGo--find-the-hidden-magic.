@@ -13,7 +13,7 @@ Let's make your journey unforgettable ✨
 - Add and browse hidden gems  
 - Sort and search by stay duration  
 - Simple, modern **CustomTkinter** interface  
-- Linked List backend (no database)  
+- Linked List backend and local csv data base 
 
 ---
 
