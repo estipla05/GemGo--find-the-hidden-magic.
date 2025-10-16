@@ -27,11 +27,19 @@ Let's make your journey unforgettable ✨
 
 ## 💻 How to Run  
 
-```bash
+```
 python main.py
-🤝 Contributing
-Pull requests are welcome!
-If you'd like to improve the UI, add new features, or fix bugs, feel free to open an issue first to discuss your ideas.
+```
 
-📄 License
-This project is licensed under the MIT License.
+---
+
+## 🤝 Contributing  
+
+Pull requests are welcome!  
+If you'd like to improve the UI, add new features, or fix bugs, feel free to open an issue first to discuss your ideas.  
+
+---
+
+## 📄 License  
+
+This project is licensed under the MIT License.  
