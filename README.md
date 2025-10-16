@@ -8,7 +8,7 @@ Let's make your journey unforgettable ✨
 
 ---
 
-## 🚀 Features  
+##  Features  
 
 - Add and browse hidden gems  
 - Sort and search by stay duration  
@@ -17,7 +17,7 @@ Let's make your journey unforgettable ✨
 
 ---
 
-## 🧠 Tech Stack  
+##  Tech Stack  
 
 - **Language:** Python 3  
 - **UI Framework:** CustomTkinter  
@@ -25,7 +25,7 @@ Let's make your journey unforgettable ✨
 
 ---
 
-## 💻 How to Run  
+##  How to Run  
 
 ```
 python main.py
@@ -40,6 +40,6 @@ If you'd like to improve the UI, add new features, or fix bugs, feel free to ope
 
 ---
 
-## 📄 License  
+##  License  
 
 This project is licensed under the MIT License.  
