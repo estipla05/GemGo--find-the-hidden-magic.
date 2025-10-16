@@ -1,51 +1,34 @@
 GemGo- python project🌍
 
-GemGo is a community-driven Python application that helps travelers uncover hidden gems and secret spots.
-Instead of generic tourist attractions, the app curates unique cafés, local treasures, and off-the-map experiences.
-Let's make your journey unforgettable ✨
+🪄 Overview
+
+GemGo is a community-driven Python application that helps travelers uncover hidden gems and secret spots. Instead of generic tourist attractions, the app curates unique cafés, local treasures, and off-the-map experiences. Let's make your journey unforgettable ✨
 
 🚀 Features
 
-Add, browse, and manage hidden gems
+Add and browse hidden gems
 
-Sort gems by stay duration using bubble sort
+Sort and search by stay duration
 
-Search and filter through stored gems
+Simple, modern CustomTkinter interface
 
-Clean and modern CustomTkinter interface
-
-Combines Linked List logic with a simple local database
+Linked list backend (no database)
 
 🧠 Tech Stack
 
-Language: Python 3
+Python 3
 
-UI Framework: CustomTkinter
+CustomTkinter
 
-Data Handling: Linked List + SQLite (or specify your DB)
+Linked List data structure
 
-💻 How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/GemGo.git
-cd GemGo
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the app:
-
+💡 How to Run
 python main.py
 
 🤝 Contributing
 
-Pull requests are welcome!
-If you’d like to improve the UI, add new features, or enhance data handling, feel free to open an issue first to discuss your ideas.
+Pull requests are welcome! Feel free to suggest new features or UI improvements.
 
 📄 License
 
-This project is licensed under the MIT License.
+MIT License
