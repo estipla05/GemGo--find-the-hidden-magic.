@@ -1,4 +1,4 @@
-# 🌍 GemGo - Python Project  
+# 🌍 GemGo - Made with Python  
 
 ##  Overview  
 
@@ -18,7 +18,7 @@ Let's make your journey unforgettable ✨
 - Add and browse hidden gems  
 - Sort and search by stay duration  
 - Simple, modern **CustomTkinter** interface  
-- Linked List backend and local csv data base 
+- Linked List backend and local CSV data base  
 
 ---
 
