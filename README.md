@@ -8,6 +8,11 @@ Let's make your journey unforgettable ✨
 
 ---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/estipla05/GemGo--find-the-hidden-magic./main/screenshot%20gemgo.png" alt="GemGo Screenshot" width="400">
+</p>
+
 ##  Features  
 
 - Add and browse hidden gems  
