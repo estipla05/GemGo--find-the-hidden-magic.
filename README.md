@@ -1,4 +1,4 @@
-# 🌍 GemGo - Made with Python  
+# 🌍 GemGo -  Python Project
 
 ##  Overview  
 
