@@ -24,8 +24,8 @@ Let's make your journey unforgettable ✨
 
 ##  Tech Stack  
 
-- **Language:** Python 3  
-- **UI Framework:** CustomTkinter  
+- **Language:** Python 3.12 
+- **UI Framework:** CustomTkinter, tkinter 
 - **Data Structure:** Linked List  
 
 ---
